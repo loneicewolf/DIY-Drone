@@ -9,6 +9,9 @@ This is a **hobby-level, indoor-only** drone project focused on:
 - understanding concepts
 - experimenting with safe, educational electronics (Arduino-level)
 
+## Note for myself
+- avoid giving any "grip and drop" even if cool function, it crosses too much into dual use.
+
 **No outdoor flying, no range modifications, and no performance enhancements.**  
 I treat the topic of “drone development” as containing potential dual-use areas,  
 so I will *avoid documenting or performing* anything technical that resembles:
@@ -67,7 +70,8 @@ Better safe than sorry! 💛
    - Keeping everything in the safe hobby zone  
 
 9. **References**
+- Own stuff < add more here 
 - Electrokit.se
 - Amazon.com
-- Wikipedia
+- Wikipedia 
 - OpenAI. (2025). ChatGPT [Large language model]. https://chat.openai.com/
